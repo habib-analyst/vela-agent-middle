@@ -1,0 +1,15 @@
+{
+  "n": 40,
+  "vulnerable_exploit": 0.8,
+  "control_exploit": 0.0,
+  "mitigated_exploit": 0.0,
+  "vulnerable_benign": 1.0,
+  "control_benign": 1.0,
+  "mitigated_benign": 1.0,
+  "gap_vuln_minus_control": 0.8,
+  "gap_ci95": [
+    0.675,
+    0.925
+  ],
+  "seeds": "1000-1039"
+}

@@ -1,0 +1,24 @@
+{
+  "n": 200,
+  "vulnerable_exploit": 0.8,
+  "control_exploit": 0.0,
+  "mitigated_exploit": 0.0,
+  "vulnerable_benign": 1.0,
+  "control_benign": 1.0,
+  "mitigated_benign": 1.0,
+  "seeds": "5000-5199",
+  "gap_vuln_minus_control": 0.8,
+  "gap_ci95": [
+    0.745,
+    0.855
+  ],
+  "reduction_vuln_minus_mitigated": 0.8,
+  "reduction_ci95": [
+    0.745,
+    0.855
+  ],
+  "benign_utility_drop_mitigated_minus_vulnerable": 0.0,
+  "g2_pass": true,
+  "g3_pass": true,
+  "rows_sha256": "68cf8a3959130d550108d0b22c8ee37fb52773d5b206475a8941330dcc69d321"
+}
